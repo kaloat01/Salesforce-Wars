@@ -1,3 +1,8 @@
+1. Setup Session: https://www.youtube.com/watch?v=1IETMDgE6GA&ab_channel=AtanasKaloferov
+2. Session 1: https://www.youtube.com/watch?v=HJLQOn3wZsY&ab_channel=AtanasKaloferov
+3. Sync Existing GitHub Repo to Local Salesforce SFDX Project & Org: https://www.youtube.com/watch?v=SHGf_9NN4Sg
+
+
 # Salesforce Star Wars Integration
 ### _[Salesforce Mentor - Build Together](https://courses.salesforcementor.com/)_
 
